@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "employee.h"
 
 // External table
 
